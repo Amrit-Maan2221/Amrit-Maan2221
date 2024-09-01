@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Amritpal Singh
 - 👀 I’m very passionate about coding
-- 🌱 I’m currently .NET Developer at GHD Digital
+- 🌱 I’m currently Software Engineer at IIMSWISS Corp.
