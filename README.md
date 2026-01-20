@@ -10,7 +10,7 @@ Based in **Toronto, Canada** 🇨🇦 — Passionate about architecture, clean c
 
 ## 💼 About Me
 
-- 🚀 Software Engineer with **4+ years of experience** in enterprise apps  
+- 🚀 Software Engineer with **5+ years of experience** in enterprise apps  
 - 🧠 Strong foundation in **system architecture, performance, and distributed modules**  
 - 💻 I build solutions that solve **complex real-world business problems**  
 - 📫 Let’s connect!
