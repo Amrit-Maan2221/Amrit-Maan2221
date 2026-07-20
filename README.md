@@ -15,16 +15,6 @@ Based in **Toronto, Canada** 🇨🇦 — Passionate about architecture, clean c
 - 💻 I build solutions that solve **complex real-world business problems**  
 - 📫 Let’s connect!
 
----
-
-## 🛠️ Skills & Expertise
-
-### 🔧 Technologies I Work With
-**Languages:** C# · JavaScript (ES6+) · SQL · HTML/CSS  
-**Platforms & Frameworks:** .NET · React.js · SignalR · Windows Services  
-**Databases:** MS SQL Server · MongoDB  
-**DevOps & Tools:** Docker · Azure DevOps · GitHub · JIRA  
-**Cloud:** Microsoft Azure  
 
 ---
 
